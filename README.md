@@ -1,3 +1,1 @@
-# dummy
-djlkfhadsk
-this is dummy file
+Code snippets from CofSUG freedom friday Session 
